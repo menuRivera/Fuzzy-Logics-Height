@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Users\\Lenovo\\Documents\\Codes\\c#\\fuzzyLogicTest\\fuzzyLogicTest.csproj",
+      "projectUniqueName": "E:\\Users\\Lenovo\\Documents\\Codes\\c#\\fuzzyLogicTest\\fuzzyLogicsHeight\\fuzzyLogicTest.csproj",
       "projectName": "fuzzyLogicTest",
-      "projectPath": "E:\\Users\\Lenovo\\Documents\\Codes\\c#\\fuzzyLogicTest\\fuzzyLogicTest.csproj",
+      "projectPath": "E:\\Users\\Lenovo\\Documents\\Codes\\c#\\fuzzyLogicTest\\fuzzyLogicsHeight\\fuzzyLogicTest.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "E:\\Users\\Lenovo\\Documents\\Codes\\c#\\fuzzyLogicTest\\obj\\",
+      "outputPath": "E:\\Users\\Lenovo\\Documents\\Codes\\c#\\fuzzyLogicTest\\fuzzyLogicsHeight\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Microsoft\\Xamarin\\NuGet\\"

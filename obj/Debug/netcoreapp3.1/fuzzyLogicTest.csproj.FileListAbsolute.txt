@@ -1,0 +1,13 @@
+E:\Users\Lenovo\Documents\Codes\c#\fuzzyLogicTest\fuzzyLogicsHeight\bin\Debug\netcoreapp3.1\fuzzyLogicTest.exe
+E:\Users\Lenovo\Documents\Codes\c#\fuzzyLogicTest\fuzzyLogicsHeight\bin\Debug\netcoreapp3.1\fuzzyLogicTest.deps.json
+E:\Users\Lenovo\Documents\Codes\c#\fuzzyLogicTest\fuzzyLogicsHeight\bin\Debug\netcoreapp3.1\fuzzyLogicTest.runtimeconfig.json
+E:\Users\Lenovo\Documents\Codes\c#\fuzzyLogicTest\fuzzyLogicsHeight\bin\Debug\netcoreapp3.1\fuzzyLogicTest.runtimeconfig.dev.json
+E:\Users\Lenovo\Documents\Codes\c#\fuzzyLogicTest\fuzzyLogicsHeight\bin\Debug\netcoreapp3.1\fuzzyLogicTest.dll
+E:\Users\Lenovo\Documents\Codes\c#\fuzzyLogicTest\fuzzyLogicsHeight\bin\Debug\netcoreapp3.1\fuzzyLogicTest.pdb
+E:\Users\Lenovo\Documents\Codes\c#\fuzzyLogicTest\fuzzyLogicsHeight\obj\Debug\netcoreapp3.1\fuzzyLogicTest.csprojAssemblyReference.cache
+E:\Users\Lenovo\Documents\Codes\c#\fuzzyLogicTest\fuzzyLogicsHeight\obj\Debug\netcoreapp3.1\fuzzyLogicTest.AssemblyInfoInputs.cache
+E:\Users\Lenovo\Documents\Codes\c#\fuzzyLogicTest\fuzzyLogicsHeight\obj\Debug\netcoreapp3.1\fuzzyLogicTest.AssemblyInfo.cs
+E:\Users\Lenovo\Documents\Codes\c#\fuzzyLogicTest\fuzzyLogicsHeight\obj\Debug\netcoreapp3.1\fuzzyLogicTest.csproj.CoreCompileInputs.cache
+E:\Users\Lenovo\Documents\Codes\c#\fuzzyLogicTest\fuzzyLogicsHeight\obj\Debug\netcoreapp3.1\fuzzyLogicTest.dll
+E:\Users\Lenovo\Documents\Codes\c#\fuzzyLogicTest\fuzzyLogicsHeight\obj\Debug\netcoreapp3.1\fuzzyLogicTest.pdb
+E:\Users\Lenovo\Documents\Codes\c#\fuzzyLogicTest\fuzzyLogicsHeight\obj\Debug\netcoreapp3.1\fuzzyLogicTest.genruntimeconfig.cache
